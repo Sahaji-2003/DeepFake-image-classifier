@@ -1,6 +1,7 @@
 # DeepFake Image Classifier
 
 Welcome to the DeepFake Image Classifier project! This project utilizes a Deep Learning model based on the Inception V3 architecture, pre-trained on a large dataset of both fake and real images. The model is capable of classifying images into two categories: fake and real.
+![DeepFake](https://github.com/Sahaji-2003/DeepFake-image-classifier/assets/130205533/84fbdd93-caa0-4518-ba53-b3d3ed186bd2)
 
 ## Overview
 
